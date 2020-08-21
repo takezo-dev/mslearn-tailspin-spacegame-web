@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/samidzogang/Space%20Game%20-%20web%20-%20Delivery%20plans/_apis/build/status/takezo-dev.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/samidzogang/Space%20Game%20-%20web%20-%20Delivery%20plans/_build/latest?definitionId=2&branchName=build-pipeline)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
